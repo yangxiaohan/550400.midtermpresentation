@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.7)  16 OCT 2012 09:10
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.7)  16 OCT 2012 09:29
 entering extended mode
 **E:/notes/PhD*Year2*Sem1/550.400*Mathematical*Modeling*and*Consulting/midtermt
 alk.git/presentation.tex
@@ -1147,13 +1147,13 @@ alk.git\presentation.bbl") [15
 Package caption Warning: Unused \captionsetup[subfigure] on input line 24.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 209.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 209.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 210.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 210.
 
 ("E:\notes\PhD Year2 Sem1\550.400 Mathematical Modeling and Consulting\midtermt
 alk.git\presentation.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 209.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 209.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 210.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 210.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: E105F9B9162BCB245FC444E8AF58FFA4;236.
 
@@ -1161,7 +1161,7 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 209.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 210.
  )
 (\end occurred when \ifx on line 56 was incomplete)
 (\end occurred when \unless\ifcsname on line 56 was incomplete) 
@@ -1185,7 +1185,7 @@ s/miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><E:/softwares/miktex/fonts/t
 ype1/public/amsfonts/cm/cmtt10.pfb><E:/softwares/miktex/fonts/type1/public/math
 pazo/fplmri.pfb><E:/softwares/miktex/fonts/type1/urw/palatino/uplr8a.pfb><E:/so
 ftwares/miktex/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on presentation.pdf (15 pages, 179041 bytes).
+Output written on presentation.pdf (15 pages, 179312 bytes).
 PDF statistics:
  271 PDF objects out of 1000 (max. 8388607)
  37 named destinations out of 1000 (max. 500000)
