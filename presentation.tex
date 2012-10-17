@@ -152,8 +152,10 @@ it\documentclass[compress,handout,10pt]{beamer}
 	\end{center}
 	\caption{Part of Data after Adjustments}
     \end{figure}
-    Unit of size: mm\\
-    Type of data: 0 - capture-recapture data; 1 - laboratory data
+    \begin{enumerate}
+        \item Unit of sizes: millimeter
+	\item Type of data: 0 - capture-recapture data; 1 - laboratory data
+    \end{enumerate}
 \end{frame}
 
 \begin{frame}
@@ -178,7 +180,7 @@ it\documentclass[compress,handout,10pt]{beamer}
      \end{align*}
      Another way to refine:
      \begin{align*}
-      Premolt~Size = ~&\beta_0 + \beta_1 (Postmolt~Size) + \beta_1 (Postmolt~Size)^2\\
+      Premolt~Size = ~&\beta_0 + \beta_1 (Postmolt~Size) + \beta_2 (Postmolt~Size)^2\\
                & + \beta_3 (Type~of~Data).
      \end{align*}
 \end{frame}
